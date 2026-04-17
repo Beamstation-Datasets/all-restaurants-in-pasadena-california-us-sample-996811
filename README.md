@@ -9,9 +9,9 @@
 | Dataset ID | `996811` |
 | Location | Pasadena |
 | Category | Restaurants |
-| Full dataset size | 563 records |
-| Free sample size | 60 records (10.66%) |
-| Last export | 2026-03-31T13:11:30.072829+00:00 |
+| Full dataset size | 600 records |
+| Free sample size | 60 records (10.0%) |
+| Last export | 2026-04-14T13:20:39.165287+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-pasadena-california-us-sample-996811/releases/download/sample-latest/beamstation_996811_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
