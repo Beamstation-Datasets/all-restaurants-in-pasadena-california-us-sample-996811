@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Complete restaurant market coverage for Pasadena, California with a population of over 138k. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
   "config_name": "All Restaurants in Pasadena, California, US",
-  "export_job_id": "82e4448c-c737-43c2-bc33-ea1abcb120fe",
+  "export_job_id": "9ef063e7-aeff-448a-afaa-fc2ba0ee0bcf",
   "github_org": "Beamstation-Datasets",
   "id_short": 996811,
   "location_name": "Pasadena",
   "location_type": "city",
   "repo_name": "all-restaurants-in-pasadena-california-us-sample-996811",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/996811/beamstation_996811_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_pct": 10.66,
+  "sample_pct": 10.0,
   "sample_records": 60,
   "sample_sha256": "638a1ae0a6b4dd6a9d1e0654d86ccfce676c3cd7a0bb0c713247b58bbb3f98ff",
   "sample_size_bytes": 227547,
-  "total_records": 563,
-  "updated_at": "2026-03-31T13:11:30.072829+00:00"
+  "total_records": 600,
+  "updated_at": "2026-04-14T13:20:39.165287+00:00"
 }
